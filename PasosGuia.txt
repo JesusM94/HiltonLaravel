@@ -11,14 +11,18 @@
 3. Concluida la instalacion anterior ejecutar:
 	npm install
 
+/* Importante */
+1.Copiar el archivo .env.example
+y renombrarlo a .env con los mismos datos
+
 /* Despues de las instalaciones */
-4. Abrir cmd dentro de la carpeta
-5. Ejecutar:
+1. Abrir cmd dentro de la carpeta
+2. Ejecutar:
 	npm run watch
 
-6. Abrir una nueva ventana de cmd
-7. Ejecutar:
+3. Abrir una nueva ventana de cmd
+4. Ejecutar:
 	php artisan serve
 
-8. Abrir navegador e ingresar a:
+5. Abrir navegador e ingresar a:
 	127.0.0.1:8000
