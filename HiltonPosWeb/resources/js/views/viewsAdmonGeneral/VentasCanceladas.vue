@@ -4,7 +4,7 @@
         	<br>
             <div class="card" v-show="!detalle">
                 <div class="card-header">
-                    <h1><i class="fas fa-industry"></i> Administracion de Ventas Canceladas</h1>
+                    <h1><i class="far fa-window-close"></i> Administracion de Ventas Canceladas</h1>
                 </div>
                 <div class="card-body">
                 	<v-client-table :data="tableData" :columns="columns" :options="options">

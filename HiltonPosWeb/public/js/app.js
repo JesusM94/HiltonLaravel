@@ -57381,7 +57381,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h1", [
-        _c("i", { staticClass: "fas fa-industry" }),
+        _c("i", { staticClass: "far fa-window-close" }),
         _vm._v(" Administracion de Ventas Canceladas")
       ])
     ])
@@ -82219,8 +82219,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\JUAN CHAVEZ\Documents\IP-Laravel\HiltonPosWeb\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\JUAN CHAVEZ\Documents\IP-Laravel\HiltonPosWeb\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\JUAN CHAVEZ\Documents\IP-Laravel\LaravelHilton\HiltonPosWeb\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\JUAN CHAVEZ\Documents\IP-Laravel\LaravelHilton\HiltonPosWeb\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
