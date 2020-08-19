@@ -1,0 +1,24 @@
+/* Instalar en la pc */
+1. instalar node js
+2. instalar composer
+3. instalar xampp / wampp
+
+/* En la Raiz del proyecto */
+1.Abrir cmd dentro de la carpeta
+2. Ejecutar:
+	composer install
+
+3. Concluida la instalacion anterior ejecutar:
+	npm install
+
+/* Despues de las instalaciones */
+4. Abrir cmd dentro de la carpeta
+5. Ejecutar:
+	npm run watch
+
+6. Abrir una nueva ventana de cmd
+7. Ejecutar:
+	php artisan serve
+
+8. Abrir navegador e ingresar a:
+	127.0.0.1:8000
