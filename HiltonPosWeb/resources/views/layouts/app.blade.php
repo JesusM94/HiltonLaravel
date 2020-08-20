@@ -26,7 +26,7 @@
         <div class="col-md-12 col-sm-12 col-xs-12" style="background-color:#0d47a1;">
 
             <div class="text-center">
-                <img src="img/ph_logo.png" class="rounded img-thumbnail" alt="thumbnail" width="200" height="200">
+                <img src="img/ph_logo_hilton.png" class="rounded" alt="thumbnail" width="200" height="100">
             </div>
 
             <nav class="navbar navbar-dark default-color">
